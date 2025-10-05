@@ -1,4 +1,3 @@
-# Sportos-Borsod-honlaphoz-README
 ## Sportos Borsod Sportegyesület Honlap - Projektbemutató 
 ## Áttekintés
 Azért hoztuk létre a kerékpáros, túra- és futóklubot, mert hiszünk a mozgás közösségformáló és egészségmegőrző erejében. Célunk, hogy minden korosztály számára elérhető, motiváló és élményalapú sportolási lehetőséget biztosítsunk. A közös mozgás segít a testi-lelki egészség megőrzésében, javítja a hangulatot és erősíti a közösségi kapcsolatokat. Klubunk nyitott minden érdeklődő előtt, függetlenül attól, hogy kezdő vagy haladó szinten áll.
@@ -8,36 +7,31 @@ Azért hoztuk létre a kerékpáros, túra- és futóklubot, mert hiszünk a moz
 * Sike Dalma Dóra  tartalmi szerkezet
 * Nagyné Száva Natália    a weboldal megjelenéséért felelős
 * Bánóczi Kálmán   tartalmi szerkezetért felelős
+  
 
-
-## Natália – _Kezdőlap, Elérhetőségek, Sportos ÓzdOn_
-A projekt technikai és tartalmi gerincét én kezdtem el felépíteni. A **Sportos Borsod** weboldal fejlesztése során
-nemcsak frontend és backend problémák megoldásában vettem részt, hanem a tartalmi struktúra
-kialakításában is. A projektbe integráltam a korábbi munkánkat, a `2 lábon, 2 keréken Borsodban`
-weboldalt, így a mostani honlap nemcsak informatív, hanem személyes és regionális értékeket is közvetít.
+## Natália – Kezdőlap, Elérhetőségek, Sportos ÓzdOn
+A **Sportos Borsod** projekt technikai és tartalmi gerincét én kezdtem el felépíteni. A weboldal fejlesztése során frontend korrekciók és backend problémák megoldásában is részt vettem. Külön figyelmet fordítottam a technikai stabilitásra, a tartalmi koherenciára és a vizuális
+élményre. 
+Beleintegráltam a korábbi munkánkat, a `2 lábon, 2 keréken Borsodban`honlapot, így ez a mostani regionális értékeket is közvetít.
 A **Kezdőlap** widgetjeit úgy állítottam össze, hogy vizuálisan vonzóak és informatívak legyenek,
-miközben a látogatók gyorsan áttekinthetik az egyes sportágakat és városi szakosztályokat.
+a látogatók gyorsan áttekinthessék a sportágakat és városi szakosztályokat.
 A **Céginfó/Elérhetőségek** szekcióban törekedtem az átláthatóságra és a könnyű kapcsolatfelvételre. A
-tartalom olvashatóságát és kontrasztját külön figyelemmel kezeltem, mivel a mai világban kiemelten
+tartalom olvashatóságát és kontrasztját külön figyelemmel kezeltem, mivel napjainkban kiemelten
 fontos az akadálymentes megjelenés.
-A **Sportos ÓzdOn** városi aloldal még fejlesztés alatt áll, de az alapötlet már megfogalmazódott:
-célom, hogy bemutassam a helyi sportközösség aktivitását és értékeit.
-A fejlesztés során külön figyelmet fordítottam a technikai stabilitásra, a tartalmi koherenciára és a vizuális
-élményre.
-## _Technikai megvalósítás – WordPress részletek_
-A weboldal fejlesztése során a **WordPress 6.1** verzióját használtuk, amely stabil és kompatibilis a
+A **Sportos ÓzdOn** városi aloldalnál a cél, hogy bemutassam a helyi sportközösség aktivitását és értékeit.
+## Technikai megvalósítás
+A weboldal fejlesztése során a **WordPress 6.0.1** verzióját használtuk, amely stabil és kompatibilis a
 modern pluginokkal. A választott sablon a **MultiSport** nevű reszponzív sporttéma volt, amely
-testreszabható elrendezést, widget-területeket és Gutenberg-kompatibilitást kínál.
-A következő technikai megoldásokat alkalmaztam:
+testreszabható elrendezést kínál.
+A következő technikai megoldásokat alkalmaztuk:
 - **Bejelentkezési és véleményezési űrlapok** a felhasználói interakcióhoz
 - **Icon-boxok** a vizuális kiemelésekhez
 - **Térkép-plugin** az elérhetőségek és helyszínek bemutatásához
 - **Listajeles felsorolások** a tartalmi struktúra javítására
 - **Reszponzív design**, amely mobilon és tableten is jól működik
 - **Gombok és linkek** a navigáció és felhasználói élmény támogatására
-A weboldal célja nemcsak informatív, hanem **interaktív és felhasználóbarát** felület biztosítása volt. A
-technikai hibák javítását és a frontend korrekciókat én végeztem, különös figyelemmel az olvashatóságra
-és a kontrasztokra.
+A weboldal célja: informatív, **interaktív és felhasználóbarát** felület biztosítása.
+
 ## Kálmán - Kezdőlap, Miskolci szakágkínálatunk
 ### 1. _Kezdőlap_
 A nyitóoldal átfogó képet ad a Miskolci szakág közösségéről. Megjelennek rajta:
@@ -85,4 +79,4 @@ Az oldal célja, hogy az érdeklődők azonnal képet kapjanak a közösség sze
 _
 - Bemutatni a közösséget a szélesebb közönség számára
 - Segíteni az események kommunikációját
-- Lehetővé tenni az egyszerű jelentkezést
+- Lehetővé tenni az egyszerű jelentkezéstt
